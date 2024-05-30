@@ -1,0 +1,60 @@
+.card-container {
+  max-width: 500px;
+  margin: auto;
+}
+
+.card-header {
+  background-color: #64437C!important;
+  color: white !important;
+}
+
+.card {
+  border-radius: 10 #64377C;
+}
+.card-body {
+  padding: 2rem;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.btn-success {
+  padding: 8px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  width: 100px;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+:root{
+  --purple:#64437C
+}
+.navbar.bg-purple {
+  background-color: #64377C ;
+}
+
+.table {
+  background-color: #64377C;
+  color: white;
+}
+
+.bg-purple{
+  background-color: #64377C;
+  color: #fff;
+}
+
+.table tbody tr:hover {
+  background-color:  #64377C;
+}
+.border{
+  height: 5px;
+  background-color:  #64377C !important ;
+  margin-bottom: 10px;
+ 
+}
+.set{
+  width: 100px !important;
+}
